@@ -23,13 +23,6 @@ Receive a notification once your download has finished.
 
 ---
 
-## 📥 Download
-
-- **Direct Download**
-- **View on GitHub**
-
----
-
 ## ⚠️ Disclaimer
 
 GreenKnife Downloader is a personal project developed by a graduating student.
@@ -46,7 +39,3 @@ Please use this tool responsibly and comply with your local laws and the terms o
 
 Made with passion by **Dhiyaa Abbas Aljubili**
 
-© 2026 Dhiyaa Abbas Aljubili
-
-- GitHub
-- About Me
